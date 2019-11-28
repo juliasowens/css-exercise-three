@@ -18,9 +18,7 @@ nav {
   position: fixed;
   width: 380px;
   background-color: black;
-  padding-right: 20px;
   padding: 20px;
-  float: right;
 }
 
 .arrow-left {
@@ -34,7 +32,6 @@ nav {
 
 h1 {
   font-size: 1.8em;
-  text-decoration: bold;
   font-weight: 600;
   line-height: 2;
 }
